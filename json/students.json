@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Folorunso Joseph",
+    "emails": ["me@joseph.com", "you@joseph.com"],
+    "first_kid": {
+      "first_name": "sewa joseph",
+      "gender": "female"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Milo Familo",
+    "emails": ["me@joseph.com", "you@joseph.com"],
+    "first_kid": {
+      "first_name": "sewa joseph",
+      "gender": "female"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sunbo Familo",
+    "emails": ["me@joseph.com", "you@joseph.com"],
+    "first_kid": {
+      "first_name": "sewa joseph",
+      "gender": "female"
+    }
+  }
+]
